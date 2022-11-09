@@ -4,8 +4,10 @@ public class Belaljan {
 public static void main (String[] args) {
 
 int a = 10;
-if (a>=10) {
-	 System.out.print("a is bigger");
+int b = 100;
+int c = 80;
+if (a>=10 ) {
+	 System.out.print("a is bigger" + "myname");
 	
 }
 
